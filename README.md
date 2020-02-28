@@ -9,6 +9,8 @@ A toy testing framework that starts from and inconclusive test, and not from a p
 ### TODO:
 -    parallel runs
 -    offloading the work to a test host process
+-    fall-thru in assertions if you have multiple of them
+-    run only selected tests in VS
 
 ```cs
 public void EmptyTest()
