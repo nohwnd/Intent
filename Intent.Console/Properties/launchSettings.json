@@ -2,7 +2,7 @@
   "profiles": {
     "Intent.Console": {
       "commandName": "Project",
-      "commandLineArgs": "--path \"C:\\Projects\\temp\\Intent\\Some.Tests\\bin\\Debug\\netstandard2.0\\Some.Tests.dll\""
+      "commandLineArgs": "--path \"..\\..\\..\\..\\Some.Tests\\bin\\Debug\\netcoreapp3.1\\Some.Tests.dll\""
     }
   }
 }
