@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intent.Assertions", "Intent
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intent.Primitives", "Intent.Primitives\Intent.Primitives.csproj", "{95B9E8EF-08AF-4FBF-AA97-B4349C500D57}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intent.TestAdapter", "..\..\..\Users\jajares\source\repos\Intent\Intent.TestAdapter\Intent.TestAdapter.csproj", "{16AE7ACD-E662-44A8-BEA7-EDC314BB1D23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intent.TestAdapter", "Intent.TestAdapter\Intent.TestAdapter.csproj", "{16AE7ACD-E662-44A8-BEA7-EDC314BB1D23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

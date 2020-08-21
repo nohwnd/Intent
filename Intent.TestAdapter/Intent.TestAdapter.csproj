@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\Projects\temp\Intent\Intent\Intent.csproj" />
+    <ProjectReference Include="..\Intent\Intent.csproj" />
   </ItemGroup>
 
 </Project>

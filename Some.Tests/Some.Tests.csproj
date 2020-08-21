@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Users\jajares\source\repos\Intent\Intent.TestAdapter\Intent.TestAdapter.csproj" />
+    <ProjectReference Include="..\Intent.TestAdapter\Intent.TestAdapter.csproj" />
     <ProjectReference Include="..\Intent.Assertions\Intent.Assertions.csproj" />
   </ItemGroup>
 
